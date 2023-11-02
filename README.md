@@ -8,9 +8,11 @@ Front-End :-
 5. GetTicket
 6. Login_Frame
 7. Main(Primary GUI)
+
+
 Back-End:-
 DataBase:- airline_project
-Tables Present:-
+Tables to be created:-
   1. admin
   2. customer
   3. flight
